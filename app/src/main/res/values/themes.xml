@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._7teams" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="Theme._7teams" parent="Base.Theme._7teams" />
+</resources>
